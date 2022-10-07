@@ -7,13 +7,13 @@
 
 body {
   background-color: #000;
-  color: #FFF;
+  color: #fff;
 }
 
 a {
   text-decoration: none;
-  color: #F7D354;
-  transition: .5s;
+  color: #f7d354;
+  transition: 0.5s;
 }
 
 a:hover {
